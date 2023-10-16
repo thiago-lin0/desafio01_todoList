@@ -11,4 +11,4 @@ Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no e
 - Mostrar o progresso de conclusão das tarefas
 
 ## Layout do Projeto
-  ![layout do projeto](https://drive.google.com/file/d/1Z0dwlm4EE9NHkVKlw5wP6PDFfqntSADe/view?usp=sharing)
+  ![layout do projeto](Downloads/imagem_2023-10-16_183001019)
