@@ -11,4 +11,4 @@ Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no e
 - Mostrar o progresso de conclusão das tarefas
 
 ## Layout do Projeto
-  ![layout do projeto](https://www.figma.com/file/XCZouM1k0DImFz6yry1SWB/ToDo-List-•-Desafio-React-Native-(Copy)?type=design&node-id=0-1&mode=design&t=Y5WREax88hUGKfrn-0)
+  ![layout do projeto](https://drive.google.com/file/d/1Z0dwlm4EE9NHkVKlw5wP6PDFfqntSADe/view?usp=sharing)
