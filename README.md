@@ -12,3 +12,20 @@ Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no e
 
 ## Layout do Projeto
   ![layout do projeto](assets/imagem_2023-10-16_183001019.png)
+
+## Meu Projeto
+
+### primeira tela
+  ![primeira tela](assets/telaVazia.png)
+
+### tela marcando tarefa como concluida
+  ![layout do projeto](assets/tela3.png)
+
+### Tela com tarefas adicionadas
+  ![tela marcando tarefa como concluida](assets/tela2.png)
+
+### excluido tarefa
+  ![excluido tarefa](assets/trash.png)
+
+
+
